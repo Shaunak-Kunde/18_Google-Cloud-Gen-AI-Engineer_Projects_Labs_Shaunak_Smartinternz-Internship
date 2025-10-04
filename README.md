@@ -11,32 +11,30 @@ This repository contains all the advanced projects and guided labs that I implem
 
 ---
 
-## 🎓 Learning Path Curriculum
+### 🎓 Learning Path
 
-Below is the full list of courses and skill badges I completed within each learning path.
+# Below is the full list of courses, Cloud Labs and skill badges I completed within each learning path.
 
-### Beginner: Introduction to Generative AI
+## Beginner: Introduction to Generative AI
 
 1.  **Introduction to Generative AI**
 2.  **Introduction to Large Language Models**
 3.  **Introduction to Responsible AI**
----
    <img width="695" height="215" alt="image" src="https://github.com/user-attachments/assets/65c52972-8e72-46f2-8885-5254dcb3bc10" />
    
 ---
-5.  **Prompt Design in Vertex AI** (Skill Badge)
----
+4.  **Prompt Design in Vertex AI** (Skill Badge)
  <img width="142" height="172" alt="image" src="https://github.com/user-attachments/assets/f612ca2c-355f-41df-8bf5-2c6f4dc541f6" />
 
 ---
-7.  **Responsible AI: Applying AI Principles with Google Cloud**
----
+5.  **Responsible AI: Applying AI Principles with Google Cloud**
    <img width="214" height="203" alt="image" src="https://github.com/user-attachments/assets/5d67f0bb-e0bd-4697-97cf-df567e8761ab" />
 
 ---
-### Advanced: Generative AI for Developers
+## Advanced: Generative AI for Developers
 
-1.  **Introduction to Image Generation**
+1.  **Introduction to Image Generation**<img width="154" height="191" alt="image" src="https://github.com/user-attachments/assets/25ea1d4d-3192-4d11-b538-a95a1b01bf27" />
+
 2.  **Attention Mechanism**
 3.  **Encoder-Decoder Architecture**
 4.  **Transformer Models and BERT Model**
