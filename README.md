@@ -10,7 +10,6 @@ This repository contains all the advanced projects and guided labs that I implem
 * **Advanced: Generative AI for Developers**
 
 ---
-
 ### 🎓 Learning Path
 
 # Below is the full list of courses, Cloud Labs and skill badges I completed within each learning path.
