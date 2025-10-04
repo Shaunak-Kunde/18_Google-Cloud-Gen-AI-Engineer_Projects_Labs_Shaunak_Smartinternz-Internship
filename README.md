@@ -12,68 +12,68 @@ This repository contains all the advanced projects and guided labs that I implem
 ---
 ### 🎓 Learning Path
 
-1.  **Introduction to Generative AI**
+1.  **Introduction to Generative AI**\
     <img width="272" height="290" alt="image" src="https://github.com/user-attachments/assets/34c4a529-9b19-43cd-a2d7-a5b77f094691" />
 
 ---
-2.  **Introduction to Large Language Models**
+2.  **Introduction to Large Language Models**\
     <img width="275" height="283" alt="image" src="https://github.com/user-attachments/assets/7ff0849e-6caa-4882-a411-7e26ac391fab" />
 
 
 ---
-3.  **Introduction to Responsible AI**
+3.  **Introduction to Responsible AI**\
     <img width="277" height="287" alt="image" src="https://github.com/user-attachments/assets/5bf82af0-e0e4-4242-b394-02c652e43ad3" />
 
 
 ---
-4.  **Prompt Design in Vertex AI** (Skill Badge)
+4.  **Prompt Design in Vertex AI** (Skill Badge)\
     <img width="361" height="290" alt="image" src="https://github.com/user-attachments/assets/62773649-79e9-49c9-b567-99f0ec64d46b" />
 
 
 ---
-5.  **Responsible AI: Applying AI Principles with Google Cloud**
+5.  **Responsible AI: Applying AI Principles with Google Cloud**\
     <img width="272" height="282" alt="image" src="https://github.com/user-attachments/assets/39233916-17e6-4486-a089-df4429d95cb7" />
 
 ---
 
 ### Advanced: Generative AI for Developers
 
-1.  **Introduction to Image Generation**
+1.  **Introduction to Image Generation**\
     <img width="273" height="286" alt="image" src="https://github.com/user-attachments/assets/1ae30884-6056-4544-b8d4-8745d40176f0" />
 
 
 ---
-2.  **Attention Mechanism**
+2.  **Attention Mechanism**\
     <img width="272" height="285" alt="image" src="https://github.com/user-attachments/assets/4402e1b5-4cda-4317-88a3-2f4cdc48a6cb" />
 
 
 ---
-3.  **Encoder-Decoder Architecture**
+3.  **Encoder-Decoder Architecture**\
     <img width="270" height="284" alt="image" src="https://github.com/user-attachments/assets/aa93c195-14e6-4fc7-8a1f-420c3b66293c" />
 
 
 ---
-4.  **Transformer Models and BERT Model**
+4.  **Transformer Models and BERT Model**\
     <img width="273" height="284" alt="image" src="https://github.com/user-attachments/assets/526f4cdb-79d2-45fb-9ee3-09e5a38f891b" />
 
 
 ---
-5.  **Create Image Captioning Models**
+5.  **Create Image Captioning Models**\
     <img width="271" height="286" alt="image" src="https://github.com/user-attachments/assets/089e7f70-3b14-4452-a1f9-5b576d029f65" />
 
 
 ---
-6.  **Introduction to Vertex AI Studio**
+6.  **Introduction to Vertex AI Studio**\
     <img width="274" height="284" alt="image" src="https://github.com/user-attachments/assets/f7edd16f-1ce8-470a-a487-e336a7be549b" />
 
 
 ---
-7.  **Vector Search and Embeddings** (Skill Badge)
+7.  **Vector Search and Embeddings** (Skill Badge)\
     <img width="271" height="287" alt="image" src="https://github.com/user-attachments/assets/88ee0803-fa85-4b96-9073-3349a3301c4b" />
 
 
 ---
-8.  **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG** (Skill Badge)
+8.  **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG** (Skill Badge)\
     <img width="365" height="290" alt="image" src="https://github.com/user-attachments/assets/6686bb41-2d13-4acc-944e-98fa2a615c7e" />
 
 ---
@@ -82,15 +82,15 @@ This repository contains all the advanced projects and guided labs that I implem
 
 
 ---
-10. **Responsible AI for Developers: Interpretability & Transparency**
+10. **Responsible AI for Developers: Interpretability & Transparency**\
     <img width="272" height="281" alt="image" src="https://github.com/user-attachments/assets/4c62e240-6512-4785-a3c2-a88522f4205f" />
 
 ---
-11. **Responsible AI for Developers: Privacy & Safety**
+11. **Responsible AI for Developers: Privacy & Safety**\
     <img width="273" height="281" alt="image" src="https://github.com/user-attachments/assets/e1925f2f-1cf3-493d-91be-4e5094406f6d" />
 
 ---
-12. **Machine Learning Operations (MLOps) for Generative AI**
+12. **Machine Learning Operations (MLOps) for Generative AI**\
     <img width="277" height="282" alt="image" src="https://github.com/user-attachments/assets/a808babf-285b-47e2-b226-245c321f3027" />
 
 
