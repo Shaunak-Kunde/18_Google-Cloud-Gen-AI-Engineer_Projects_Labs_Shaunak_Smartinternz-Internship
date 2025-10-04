@@ -77,7 +77,7 @@ This repository contains all the advanced projects and guided labs that I implem
     <img width="365" height="290" alt="image" src="https://github.com/user-attachments/assets/6686bb41-2d13-4acc-944e-98fa2a615c7e" />
 
 ---
-9.  **Responsible AI for Developers: Fairness & Bias**\n
+9.  **Responsible AI for Developers: Fairness & Bias**\
     <img width="272" height="285" alt="image" src="https://github.com/user-attachments/assets/1c0f45c5-4481-4945-a4ad-13bafd5d4223" />
 
 
